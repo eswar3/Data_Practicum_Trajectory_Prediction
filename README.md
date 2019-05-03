@@ -1,4 +1,4 @@
-# Data_Practicum_Trajectory_Prediction
+# Trajectory Prediction
 
 # Objective:
   
